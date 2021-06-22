@@ -1,0 +1,83 @@
+#heading{
+    top: 0;
+    padding: 15px;
+    left: 0px;
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;    
+    background-image: linear-gradient(to right ,rgb(250, 148, 165), rgb(126, 207, 235));
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.maria{
+    font-family: 'Dancing Script', cursive;
+}
+.nathan{
+    font-family: 'Bebas Neue', cursive;
+}
+#m_b{
+    border: none;
+    width: 47.5%;
+    height: 82.5%;
+    background-image: url('maria_button.jpg');
+    background-size: cover;
+    font-size: 50px;
+    color: white;
+    margin-right: 12.5px;
+    box-shadow: 0px 0px 100px #6549ab;
+    cursor: pointer;
+}
+#n_b{
+    border: none;
+    width: 47.5%;
+    height: 82.5%;
+    background-image: url('nathan_button.jpg');
+    background-size: cover;
+    font-size: 50px;
+    color: white;
+    margin-left:12.5px;
+    box-shadow: 0px 0px 100px #4a8cfa;
+    cursor: pointer;
+}
+#heading_m{
+    top: 0;
+    padding: 15px;
+    left: 0px;
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;    
+    background-image: linear-gradient(to right ,rgb(250, 148, 165), #b386f3);
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+#heading_n{
+    top: 0;
+    padding: 15px;
+    left: 0px;
+    position: fixed;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;    
+    background-image: linear-gradient(to right ,rgb(148, 213, 250), #5e6acf);
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+}
+#m{
+    background-image: url("maria_button.jpg");
+    background-size: cover;
+}
+#n{
+    background-image: url("nathan_button.jpg");
+    background-size: cover;
+}
+#myCarousel{
+    width: 800px;
+}
+.glyphicon{
+    float: left;
+    background-color: transparent;
+    border: none;
+}
